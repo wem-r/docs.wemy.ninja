@@ -30,9 +30,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wem-r
 
 # Build settings
-# theme: minima
+theme: minima
 # remote_theme: wem-r/just-the-docs
-remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
