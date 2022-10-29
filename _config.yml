@@ -32,6 +32,7 @@ github_username:  wem-r
 remote_theme: wem-r/just-the-docs
 
 plugins:
+  - jekyll-remote-theme
 #  - jekyll-feed
 
 # Exclude from processing.
